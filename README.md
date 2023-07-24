@@ -4,7 +4,7 @@ This project “Student Information Management System” provides us a simple in
 colleges to maintain the records of students easily.Throughout the project the focus has been on presenting information in an easy and intelligible manner
 Student Management System deals with all kind of student details, academic related reports, college details, course details, curriculum, batch details and other resource related details too. It tracks all the details of a student from the day one to the end of his course which can be used for all reporting purpose, tracking of 
 attendance, progress in the course, completed semesters years, coming semester year curriculum details, exam details, project or any other assignment details, final exam
-.result etc.
+, result etc.
 
 ![smg2](https://user-images.githubusercontent.com/100334542/178456821-6ebcc431-2569-41af-9f80-dd4869aafbd0.gif)
 
