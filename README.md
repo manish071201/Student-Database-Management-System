@@ -52,7 +52,7 @@ Tkinter is the standard GUI(Graphical User Interface) library for Python. Python
 
 ![image](https://user-images.githubusercontent.com/100334542/178457860-2552f5f2-23ee-44a4-8f95-208ad9566759.png)
 
-In this project python is worked in font-end programming language and MySQL  is helped as back-end database .
+In this project python is worked in front-end programming language and MySQL is helped as back-end database .
 
 In order to create a database connectivity between Python and MySQL,we first need to install MySQL connector.It is is used to connect Python with MySql so that we can store or retrieve data from Python as front-end and MySql as back-end.
 
